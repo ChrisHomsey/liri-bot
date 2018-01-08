@@ -1,0 +1,25 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "Liri: An answer for all the important things in life.",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisHomsey/liri-bot.git"
+  },
+  "author": "Chris Homsey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisHomsey/liri-bot/issues"
+  },
+  "homepage": "https://github.com/ChrisHomsey/liri-bot#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  }
+}
